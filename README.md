@@ -41,9 +41,9 @@ Use os métodos da classe para gerenciar vendedores e vendas. Por exemplo, para 
 `gerenciador.listar_vendedores()`
 
 ### Estrutura do Código
-Vendedor: Classe que representa um vendedor.
-GerenciarVendedores: Classe que gerencia a lista de vendedores e suas operações.
-Exemplo de Uso
+- Vendedor: Classe que representa um vendedor.
+- GerenciarVendedores: Classe que gerencia a lista de vendedores e suas operações.
+- Exemplo de Uso
 
 # Para rodar os testes
  python -m unittest test_gerenciar_vendedores.py
